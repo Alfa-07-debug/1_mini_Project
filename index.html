@@ -5,6 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AAA website</title>
 </head>
+<style>
+    html{
+        font-family: "jost",sans-serif;
+        background-color: #efefef;
+    }
+    h1{
+        font-weight: bold;
+        font-size: 2rem;
+    }
+    li,p,label{
+        font-family: urbanist;
+        letter-spacing: 0.06;
+        line-height: 1.6;
+        font-size: 1.4rem;
+    }
+</style>
 <body>
     <!-- our header -->
      <header>
@@ -14,7 +30,7 @@
             </a>
         </div>
         <nav>
-            <ul>
+            <ul style="list-style: none; display: flex; gap: 10px;">
                 <li><a href="#">Home</a></li>
                 <li><a href="#">About</a></li>
                 <li><a href="#">Services</a></li>
@@ -22,5 +38,23 @@
             </ul>
         </nav>
      </header>
+
+     <!-- our main Hero section -->
+
+     <main>
+        <div class="hero-content">
+            <h1>I am Ansari Arif Akbar aka Bablu Bhai</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae ex libero ducimus illum quas officiis. 
+            </p>
+            <button>See my works</button>
+           <a href="https://www.youtube.com/watch?v=5ccq_nLHneE" target="_blank"> <button>visit youtube</button></a>
+        </div>
+        <!-- hero section image -->
+         <div class="hero-image">
+            <figure>
+                <img src="./image/hero-image.jpg" alt="hero image" width="500" height="auto">
+            </figure>
+         </div>
+     </main>
 </body>
 </html>
