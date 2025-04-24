@@ -1,0 +1,50 @@
+# AAA Website - Pure HTML Mini Project
+
+This is a **pure HTML website** created by **Ansari Arif Akbar aka Bablu Bhai** as a part of a mini-project series. It showcases a basic webpage with multiple sections including hero, about, services, blog, podcast, and contact form.
+
+## 🔗 Live Preview
+
+[Visit Website](https://github.com/Alfa-07-debug/1_mini_Project) 
+
+## 📸 Screenshots
+
+![Homepage Screenshot](image/home.jpg)
+![Aboutpage Screenshot](image/about.jpg) 
+![Servicepage Screenshot](image/service.jpg) 
+![Contactpage Screenshot](image/contact.jpg) 
+
+
+## 🧠 Features
+
+- Responsive layout (basic)
+- Clean and semantic HTML
+- Embedded Google Map
+- Contact form with input fields
+- Blogs and podcast section
+- External links and buttons
+- Pure HTML only (no CSS/JS frameworks)
+
+## 📁 Project Structure
+
+1_mini_project/ 
+├── image  
+└── index.html
+
+
+## 🛠️ Tools Used
+
+- HTML5
+- [Google Fonts](https://fonts.google.com/)
+- [Google Maps Embed](https://www.google.com/maps)
+- Pure CSS (Inline & Internal)
+
+## 📬 Contact
+
+Feel free to reach out if you'd like to collaborate or provide feedback!
+
+  
+- 📧 Email: ansariarifakbar3@gmail.com
+
+---
+
+> © 2023 - Made with ❤️ by Ansari Arif
